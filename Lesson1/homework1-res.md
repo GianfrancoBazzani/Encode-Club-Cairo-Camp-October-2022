@@ -40,7 +40,7 @@ One of the use cases that I see in ZK tech is in verifiable credentials applicat
 	
 	inverse element, for the 0 element we dont have inverse.
 	
-	however, identitiy element is fulfilled and being the identity 1 ∀ a ∈ G 
+	however, identitiy element is fulfilled and being the identity 1 ∀ a ∈ S 
 	
 	
 	
