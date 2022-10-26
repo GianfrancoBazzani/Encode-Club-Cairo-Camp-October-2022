@@ -15,11 +15,11 @@
 
 4. **In your teams discuss why are there few identity projects on Starknet?**
 
-Maybe one of the reasons can be the change of paradigm in StarkNet respect Ethereum accounts model, new mechanics has to be thought to build identity projects over starknet.
+	Maybe one of the reasons can be the change of paradigm in StarkNet respect Ethereum accounts model, new mechanics has to be thought to build identity projects over starknet.
 
-The Alpha state of StarkNet can be another reason, if the accounts model is susceptible to change, the mechanics to manage identities may change forcing projects to reformulate their solutions.
+	The Alpha state of StarkNet can be another reason, if the accounts model is susceptible to change, the mechanics to manage identities may change forcing projects to reformulate their solutions.
 
-By the way, for me, seems that an account abstraction can be more adequate for identity projects, because the identity authentication mechanics can be done directly on account contract allowing to put aside the need of having an Ethereum address as SSI (Self-sovereign identity) ID.
+	By the way, for me, seems that an account abstraction can be more adequate for identity projects, because the identity authentication mechanics can be done directly on account contract allowing to put aside the need of having an Ethereum address as SSI (Self-sovereign identity) ID.
 
 
 5. **In preparation for future lessons you need to install Protostar**
