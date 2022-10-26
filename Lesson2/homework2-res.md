@@ -1,5 +1,4 @@
 # Homework 2
-## Usecases
 1. **Try out the vanity bitcoin address example at [asecurity](https://asecuritysite.com/blockchain/vanity) or the Ethereum [version](https://vanity-eth.tk/)**
 
 2. **What do you understand by**
