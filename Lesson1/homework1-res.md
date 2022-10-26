@@ -15,7 +15,7 @@ One of the use cases that I see in ZK tech is in verifiable credentials applicat
 	
 2. **For S = {0,1,2,3,4,5,6,7,8}**
 
-		**Properties of a group G**
+		Properties of a group G
 		Closure ∀ a ∈ G and b ∈ G -> a·b = c s.t. c ∈ G
 	
 		Associativity a·(b·c) = (b·a)·c 
