@@ -25,15 +25,15 @@
 
 ````
 	func main{output_ptr: felt*}() {
-    	tempvar x = 10;
-    	tempvar y = x + x;
-   	tempvar z = y * y + x;
-   	serialize_word(x);
-    	serialize_word(y);
-    	serialize_word(z);
+    		tempvar x = 10;
+    		tempvar y = x + x;
+   		tempvar z = y * y + x;
+   		serialize_word(x);
+    		serialize_word(y);
+    		serialize_word(z);
     
-    	tempvar square_val = square(5);
-    	serialize_word(square_val);
-    	return ();
+    		tempvar square_val = square(5);
+    		serialize_word(square_val);
+    		return ();
 	}
 ````
