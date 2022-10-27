@@ -12,4 +12,34 @@
 	
 2. **Add a function called `square` that will be called from the main function. The `square` function should have one parameter `x` and return the square of `x`.**
 
+````
+// Square root func
+func square(x: felt) -> felt {
+    [ap] = x, ap++;
+    %{
+        import math
+        memory[ap] = int(math.sqrt(memory[ap - 1]))
+    %}
+    assert x = [ap] * [ap];
+    return([ap]);
+}
+````
+
+
+
 3. **In the main function call the `square` function and output the result.**
+
+````
+func main{output_ptr: felt*}() {
+    tempvar x = 10;
+    tempvar y = x + x;
+    tempvar z = y * y + x;
+    serialize_word(x);
+    serialize_word(y);
+    serialize_word(z);
+    
+    tempvar sqrt = square(25);
+    serialize_word(sqrt);
+    return ();
+}
+````
