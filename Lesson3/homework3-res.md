@@ -35,5 +35,5 @@
     	tempvar square_val = square(5);
     	serialize_word(square_val);
     	return ();
-}
+	}
 ````
