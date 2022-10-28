@@ -12,6 +12,8 @@
 	
 
 2. **Cairo exercises**
+
+
 	**Complete program exercises 1 to 7 in [this repo](https://github.com/ExtropyIO/CairoBootcamp)**
 
 	**You need to clone the repo and follow the instructions in the README.**
