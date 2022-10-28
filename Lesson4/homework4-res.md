@@ -12,7 +12,9 @@
 	
 
 2. **Cairo exercises**
-Complete program exercises 1 to 7 in [this repo](https://github.com/ExtropyIO/CairoBootcamp) You need to clone the repo and follow the instructions in the README. You need to use protostar to test your answers.
+**Complete program exercises 1 to 7 in [this repo](https://github.com/ExtropyIO/CairoBootcamp)**
+**You need to clone the repo and follow the instructions in the README.**
+**You need to use protostar to test your answers.**
 
 
 	My fork of the repo = [https://github.com/GianfrancoBazzani/CairoBootcamp](https://github.com/GianfrancoBazzani/CairoBootcamp)
