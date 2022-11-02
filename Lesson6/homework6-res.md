@@ -6,3 +6,5 @@
 	In the repo this is `exercises\contracts\storage`
 	* Write the code so that it passes the tests
 	* Try deploying your contract to the test network using protostar or the starknet playground
+	
+	My fork of the repo with the exercises solved = https://github.com/GianfrancoBazzani/CairoBootcamp
